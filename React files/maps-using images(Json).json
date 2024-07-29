@@ -1,0 +1,21 @@
+[
+    {
+      "name":"kohli",
+      "place":"Banglore",
+      "age":22,
+      "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JB59Rn_wmvimsDO686Su_alR7bfACffVVA&s"
+    },
+    {
+        "name":"dhoni",
+        "place":"Banglore",
+        "age":22,
+        "pic":"https://www.google.com/imgres?q=dhoni&imgurl=https%3A%2F%2Fimages.firstpost.com%2Fuploads%2F2024%2F02%2FMS-Dhoni-CSK-IPL-2023-PTI-1200-2024-02-9c8c7d515e57c707fd33cef140b5d687.jpg%3Fim%3DFitAndFill%3D(1200%2C675)&imgrefurl=https%3A%2F%2Fwww.firstpost.com%2Ffirstcricket%2Fsports-news%2Fms-dhoni-chennai-super-kings-csk-zaheer-khan-13750993.html&docid=0mBm2sgX9kKL7M&tbnid=mpal_6W6h9EcAM&vet=12ahUKEwjq9Oui3dKGAxUrwjgGHZGKA6UQM3oFCIYBEAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwjq9Oui3dKGAxUrwjgGHZGKA6UQM3oFCIYBEAA"
+      },
+      {
+        "name":"rohit",
+        "place":"Banglore",
+        "age":22,
+        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2JB59Rn_wmvimsDO686Su_alR7bfACffVVA&s"
+      }
+
+]

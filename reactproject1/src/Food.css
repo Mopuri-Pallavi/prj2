@@ -1,0 +1,11 @@
+.foodheading{
+    background-color: blue;
+}
+
+#cmr{
+    background-image: url('./images/bg.jpg');
+}
+.Contact1,input{
+    background-color: black;
+    color: white;
+}
